@@ -1,1 +1,2 @@
-# scorpion_seaweed
+# furry-octo-eureka
+Hacker Rank C++ projects
